@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/Programming/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.0.0/support-annotations-24.0.0.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="2943c74db6d4346ab8c6531adac91fa05c137c40">
+        <dex dex="/Users/Programming/AndroidStudioProjects/CourtCounter/app/build/intermediates/pre-dexed/debug/support-annotations-24.0.0_898b4927af74e064a606c84ec1f7cdf24a70b84f.jar" />
+    </item>
+    <item
+        jar="/Users/Programming/AndroidStudioProjects/CourtCounter/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="e70f608219ed6b974644c333249ab2bb7b71de98">
+        <dex dex="/Users/Programming/AndroidStudioProjects/CourtCounter/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-24.0.0_112cdf6c758fbd2cbc696ea9b901910a3cde7949.jar" />
+    </item>
+    <item
+        jar="/Users/Programming/AndroidStudioProjects/CourtCounter/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/jars/libs/internal_impl-24.0.0.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="fcaf463e10e69c1923ccf1edeba3b4196d239e00">
+        <dex dex="/Users/Programming/AndroidStudioProjects/CourtCounter/app/build/intermediates/pre-dexed/debug/internal_impl-24.0.0_f31bbbc90f9f2c5c86f93d7c063f2f858ca14d32.jar" />
+    </item>
+    <item
+        jar="/Users/Programming/AndroidStudioProjects/CourtCounter/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="4f5fd6ad30dd93536c2f31ec7d08aade45981f25">
+        <dex dex="/Users/Programming/AndroidStudioProjects/CourtCounter/app/build/intermediates/pre-dexed/debug/instant-run-bootstrap_588346a7a7cd3f58b14ca62a5c63ac38b7d56dec.jar" />
+    </item>
+    <item
+        jar="/Users/Programming/AndroidStudioProjects/CourtCounter/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="3bd97cfefd783e9de1dd1c30574a6adb44b4409b">
+        <dex dex="/Users/Programming/AndroidStudioProjects/CourtCounter/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-24.0.0_5bf1e49474143715baadf1afddccf1ff1615c429.jar" />
+    </item>
+    <item
+        jar="/Users/Programming/AndroidStudioProjects/CourtCounter/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="2f7e6e2dad1bccaf68a8820820adc6c0d5b96d37">
+        <dex dex="/Users/Programming/AndroidStudioProjects/CourtCounter/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-24.0.0_8a37a7a7d48f905b18f3442f7e0111274385f68f.jar" />
+    </item>
+    <item
+        jar="/Users/Programming/AndroidStudioProjects/CourtCounter/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="0874286cc2fd88d54fdf130e9d5372730da6de97">
+        <dex dex="/Users/Programming/AndroidStudioProjects/CourtCounter/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-24.0.0_809a5e84f0ab15ad4a76ca9a1db010f1e0fca60d.jar" />
+    </item>
+    <item
+        jar="/Users/Programming/AndroidStudioProjects/CourtCounter/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="038b3ad15cd1a14e0d345bfb792ec8e80fa5cfb6">
+        <dex dex="/Users/Programming/AndroidStudioProjects/CourtCounter/app/build/intermediates/pre-dexed/debug/instant-run_e3025ba1d79b77d74fe93f85469ad69ef024936e.jar" />
+    </item>
+
+</items>
